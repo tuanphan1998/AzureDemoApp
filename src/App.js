@@ -47,6 +47,7 @@ class App extends React.Component {
   render() {
     return (
       <div className="App mt-5">
+        <h1>Demo tu branch</h1>
         <div className="columns is-centered">
           <div className="column is-one-third">
             <h1 className="subtitle has-text-centered">Image</h1>
